@@ -1,0 +1,35 @@
+.bg-1 {
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+}
+
+.bg-opacity{
+	content: "";
+	background-color: rgba(150,150,150,0.6);
+	position: relative;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+}
+
+.footer {
+	background-color:#f5f5f5;
+}
+
+.img-size {
+	width:20rem;
+	height:auto;
+}
+
+.skills {
+	letter-spacing: -3px
+}
+
+.text-1 {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.text-2 {
+	font-family: 'Open Sans', sans-serif;
+}
